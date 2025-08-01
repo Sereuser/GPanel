@@ -19,11 +19,11 @@ This project is licensed under the [MIT License](LICENSE).
 
 1. Edit `config.json` with your server details.
 2. Run the app:
-   - Normal mode (no console):  
+   - Normal mode (no debug):  
      ```bash
      python main.py
      ```
-   - Debug mode (with console):  
+   - Debug mode (with debug):  
      ```bash
      python main.py --test
      ```
