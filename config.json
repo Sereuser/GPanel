@@ -1,0 +1,25 @@
+{
+  "server_ip": "0.0.0.0",
+  "server_port": 27015,
+  "srcds_path": "C:/Users/User/Desktop/new/steamapps/common/GarrysMod/srcds.exe",
+  "srcds_args": [
+    "-console",
+    "-game",
+    "garrysmod",
+    "+maxplayers",
+    "17",
+    "+map",
+    "gm_metro_kaluzhskaya_line6",
+    "+gamemode",
+    "sandbox",
+    "-port",
+    "24240",
+    "+host_workshop_collection",
+    "3504912846",
+    "+sv_setsteamaccount",
+    "902203C69D574BAC14AD52B4B16FE3F7"
+  ],
+  "check_interval": 30,
+  "max_fails": 3,
+  "auto_restart_hour": 3
+}
