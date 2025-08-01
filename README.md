@@ -9,7 +9,7 @@
 - Customizable configuration via `config.json`
 - Minimal and clean UI based on PyQt6
 - Works with SRCDS (Source Dedicated Server)
-- Debug mode with console output (`--test` flag)
+- Debug mode with debug output (`--test` flag)
 
 ## License
 
